@@ -50,7 +50,7 @@ return [
             'port' => env('MYSQL_ADDON_PORT', '3306'),
             'database' => env('MYSQL_ADDON_DATABASE', 'forge'),
             'username' => env('MYSQL_ADDON_USERNAME', 'forge'),
-            'password' => env('MYSQL_ADDON_PASSWORD', ''),
+            'password' => env('MYSQL_ADDON_PASSWORD', 'mB76a8uK5UtHENTf7X9J'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
