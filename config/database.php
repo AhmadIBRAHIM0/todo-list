@@ -46,10 +46,10 @@ return [
         'mysql' => [
             'driver' => 'mysql',
             'url' => env('DATABASE_URL'),
-            'host' => env('MYSQL_ADDON_HOST', '127.0.0.1'),
+            'host' => env('MYSQL_ADDON_HOST', 'bjzddd3s8fykyhc4u50e-mysql.services.clever-cloud.com'),
             'port' => env('MYSQL_ADDON_PORT', '3306'),
-            'database' => env('MYSQL_ADDON_DATABASE', 'forge'),
-            'username' => env('MYSQL_ADDON_USERNAME', 'forge'),
+            'database' => env('MYSQL_ADDON_DATABASE', 'bjzddd3s8fykyhc4u50e'),
+            'username' => env('MYSQL_ADDON_USERNAME', 'uukotndeacd3gyyt'),
             'password' => env('MYSQL_ADDON_PASSWORD', 'mB76a8uK5UtHENTf7X9J'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
